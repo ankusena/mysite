@@ -65,16 +65,3 @@ footer {
     opacity: 1;
   }
 }
-.features {
-  animation: slideInRight 1s;
-}
-
-@keyframes slideInRight {
-  from {
-    transform: translateX(100%);
-  }
-
-  to {
-    transform: translateX(0);
-  }
-}
